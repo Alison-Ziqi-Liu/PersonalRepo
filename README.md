@@ -1,3 +1,3 @@
 # Python
 
-This repo contains Python Machine Learning models 
+Please see according .pdf file for Python code explaination
