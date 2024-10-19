@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-***All reasonings are discussed in the pdf***
-***Thanks! Good day!***
+***Details in the pdf under same name. Good day!***
 
 """
 
